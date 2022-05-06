@@ -10,9 +10,9 @@ through a user's phone or company phone, eliminating the middle man of an RF sca
 other pieces of hardware.
 
 
-## Java Backend Install
+## Installation
 
-Clone the project
+Clone QR Stroage using Gitbash
 
 ```bash
   git clone https://github.com/TBlais10/QR_Storage
